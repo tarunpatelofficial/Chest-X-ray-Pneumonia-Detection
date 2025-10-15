@@ -5,7 +5,7 @@ import io
 import requests
 
 # FastAPI endpoint URL
-FASTAPI_URL = "http://localhost:8000/predict"  # Change this if your FastAPI runs on a different host/port
+FASTAPI_URL = "https://chest-x-ray-pneumonia-detection-lzlb.onrender.com/predict"  # Change this if your FastAPI runs on a different host/port
 
 # -------------------------------
 # Function to call FastAPI
