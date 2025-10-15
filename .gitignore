@@ -1,0 +1,19 @@
+.venv
+.env
+
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Dataset
+chest_xray/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
